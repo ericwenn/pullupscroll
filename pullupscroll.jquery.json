@@ -1,0 +1,36 @@
+{
+    "name": "pullupscroll",
+    "title": "Scroll effect a la Google",
+    "description": "If you have used the Google+ app for Android you probably have noticed the cool scroll effect. With this jQuery Plugin you will be able to recreate it with ease.",
+    "keywords": [
+        "google",
+        "subtle",
+        "scroll"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "Eric Wennerberg",
+        "email": "ericwenn@gmail.com",
+        "url": "http://ericwenn.se"
+    },
+    "maintainers": [
+        {
+            "name": "Eric Wennerberg",
+            "email": "ericwenn@gmail.com",
+            "url": "http://ericwenn.se"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://opensource.org/licenses/MIT"
+        }
+    ],
+    "bugs": "https://github.com/ericwenn/pullupscroll/issues",
+    "homepage": "http://www.ericwenn.se/playground/pullupscroll/",
+    "docs": "http://www.ericwenn.se/playground/pullupscroll/",
+    "download": "https://github.com/ericwenn/pullupscroll/archive/master.zip",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}

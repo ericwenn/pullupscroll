@@ -1,0 +1,19 @@
+section {
+	display: -webkit-box;
+	display:-moz-box;
+	display:-ms-flexbox;
+	display:-webkit-flex;
+	display:flex;
+	flex-wrap:wrap;
+	-webkit-box-pack: space-between;
+	-moz-box-pack: space-between; 
+	-ms-flex-pack: space-between; 
+	-webkit-justify-content: space-between;
+	justify-content: space-between;
+}
+.box {
+	width: 30%;
+	height: 10em;
+	background-color: rgb(90, 95, 195);
+	margin: 1em 0;
+}
